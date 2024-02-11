@@ -1,0 +1,7 @@
+GENERATE KEYS & CSR (Note - When You Rename Keys We Get Errors)
+openssl ecparam -name secp256k1 -genkey -noout -out PrivateKey.pem
+openssl ec -in PrivateKey.pem -pubout -out publickey.pem
+openssl req -new -sha256 -key PrivateKey.pem -extensions v3_req -config Configuration.cnf -out taxpayer.csr
+
+TO SIGN INVOICE AND GENERATE QR FOR IT
+source fatoora -sign -qr -invoice Standard_Invoice.xml -privateKey PrivateKey.pem
