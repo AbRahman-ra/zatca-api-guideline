@@ -1,4 +1,4 @@
-# ZATCA-Integration-Guideline
+# ZATCA-API-Guideline
 
 [Access (MY) API Docs Here](https://documenter.getpostman.com/view/28563220/2sA2r3Z69q)
 
