@@ -23,7 +23,7 @@
 
 ## Directories Structure
 
-- `scratches/`: Trying here and there, it's worling but a bit messy. You can just ignore it
+- `scratches/`: Trying here and there, it's working but a bit messy. You can just ignore it
 - `final/`: Everything is organized and accessible
 
 ---
