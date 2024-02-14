@@ -1,6 +1,6 @@
 # ZATCA Phase 2 Integration
 
-## A simplified guideline for integrating your API with ZATCA (<u>ZA</u>kat, <u>T</u>ax & <u>C</u>ustoms <u>A</u>uthorization) e-invoicing API Written in PHP (Laravel Friendly)
+## A simplified guideline for integrating your API with ZATCA (ZAkat, Tax & Customs Authorization) e-invoicing API Written in PHP (Laravel Friendly)
 
 ---
 
@@ -14,7 +14,7 @@
 ## Requirements
 
 - [Downloading ZATCA SDK, Requires Java 11](https://sandbox.zatca.gov.sa/downloadSDK)
-  - The SDK installation scripts provided by ZATCA have errors, replace `install.bat` & `install.sh` files with the ones uploaded in this repo. Then follow their steps on the link for installation as normal (`install.sh` will be uploaded soon)
+  - The SDK installation scripts provided by ZATCA have errors, replace `install.bat` & `install.sh` files with the ones uploaded in this repo. Then follow their steps on the link for installation as normal
   - Samples for XMLs are inside the SDK extracted zip file (`Data/Samples/` folder)
   - Also, Copy the `Data/` folder after extraction and paste in inside the `Configuration/` folder
 - PHP installed (preferably v8.1+)
