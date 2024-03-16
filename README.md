@@ -7,7 +7,7 @@
 ## API Documentation
 
 - [Official Documentation](https://sandbox.zatca.gov.sa/IntegrationSandbox)
-- [My Documentation (Easier, Shorter & Simpler)](https://documenter.getpostman.com/view/28563220/2sA2r3Z69q)
+- [My Documentation (Easier, Shorter & Simpler)] Soon...
 
 ---
 
