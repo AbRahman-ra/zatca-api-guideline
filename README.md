@@ -14,7 +14,7 @@
 ## Requirements
 
 - [Downloading ZATCA SDK, Requires Java 11](https://sandbox.zatca.gov.sa/downloadSDK)
-  - The SDK installation scripts provided by ZATCA have errors, replace `install.bat` & `install.sh` files with the ones uploaded in this repo. Then follow their steps on the link for installation as normal
+  - The SDK installation scripts provided by ZATCA have errors, replace `install.bat`(soon) & `install.sh` files with the ones uploaded in this repo. Then follow their steps on the link for installation as normal
   - Samples for XMLs are inside the SDK extracted zip file (`Data/Samples/` folder)
   - Also, Copy the `Data/` folder after extraction and paste in inside the `Configuration/` folder
 - PHP installed (preferably v8.1+)
@@ -25,6 +25,9 @@
 
 - `scratches/`: Trying here and there, it's working but a bit messy. You can just ignore it
 - `final/`: Everything is organized and accessible
+- `installation-scripts`: The installation scripts refactored (official ZATCA scripts has issues)
+  - [x] `.sh` script
+  - [ ] `.bat` script => in progress
 
 ---
 
